@@ -67,9 +67,4 @@
 
 ![graphfrauddetection](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/58fcd05c-b2cc-46bd-80ac-4d6a8b6230c7)
 
-### Speech Emotion Recognition 
--
--
--
-
 

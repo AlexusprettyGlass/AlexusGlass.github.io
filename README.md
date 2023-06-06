@@ -23,9 +23,8 @@
 - Tested multivariate linear & non-linear regression implementations on Hadoop cluster using R, Spark, Mlib, & MATLAB.
 - Derived actionable insights from massive data sets with minimal support. Provided input into the collection of new data sources and the refinement of existing ones to improve analysis and model development.
 
-## Projects 
+## Projects (All Projects Located in Repository)
 ### Spotify Music Recommendation System
-|https://github.com/AlexusprettyGlass/Music-Recommendation-System.git |
 
 |In order to find key components for a recommendation system, I carried out exploratory data analysis and exhibited data visualization techniques. I used **Python's** machine learning tools, such sci-kit learn, to create algorithms that could categorize certain variables and properties to get the best suggestion. To import and arrange the substantial Spotify data sets, I also used open-source Python packages like Pandas.|  
 

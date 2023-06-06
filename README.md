@@ -40,9 +40,26 @@
 
 
 ### Credit Card Fraud Detection Project
--
--
--
+This project covers credit card fraud and is meant to look at a dataset of transactions and predict whether it is fraudulent or not. I learned alot of this from Eduonix Learning Solutions. Looking at precision for fraudulent cases lets us know the percentage of cases that they are getting correctly labeled. 'Precision' accounts for false-positives. 'Recall' accounts for false-negatives. Low numbers could mean that we are constantly calling clients asking them if they actually made the transaction which could be annoying. Our Isolation Forest method was able to produce a better result. Looking at the f1-score 26% of the time we are going to detect the fraudulent transactions.
+
+**Goal: To get better percentages.**
+
+- You can see most of the V's are clustered around 0 with some or no outliers. Notice we have very few fraudulent cases over valid cases in our class histogram.
+- Split the data to assure that I always get the same output and to create reproducible results
+- Plotted the histogram of each parameter
+- Determined the number fraud classes by creating a data class and and outlier fraction.
+- Summarized the large credit card dataset by creating a correlation matrix for the different variables to how all the possible pairs of values in the table are related.
+
+![um yea detect](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/184fe407-121f-414b-827e-ed811975515e)
+
+
+![Histogram](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/1e18cb5f-874c-4708-b839-c298d11878c9)
+
+
+![jrgtiuja](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/f2e3d286-6829-4a7e-af55-739bb1fcf3b0)
+
+
+![graphfrauddetection](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/58fcd05c-b2cc-46bd-80ac-4d6a8b6230c7)
 
 ### Speech Emotion Recognition 
 -

@@ -23,6 +23,9 @@
 - Tested multivariate linear & non-linear regression implementations on Hadoop cluster using R, Spark, Mlib, & MATLAB.
 - Derived actionable insights from massive data sets with minimal support. Provided input into the collection of new data sources and the refinement of existing ones to improve analysis and model development.
 
+
+
+
 ## Projects (All Projects Located in Repository)
 ### Spotify Music Recommendation System
 
@@ -36,6 +39,8 @@
 
 
 ![cluster_graph](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/701bd1c5-ddf0-4fe9-bd3a-2a35ffc19827)
+
+
 
 
 

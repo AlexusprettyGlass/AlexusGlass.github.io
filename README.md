@@ -3,6 +3,7 @@
 ### Education
 Computer Science, BS
 
+
 ### Work Experience
 Data Scientist/Analyst Intern @ ABC Consultants Group
 - Received, cleaned, and prepped data using Python, SQL, and Excel to help build marketing mix models that resulted in a lift in ROI of 8 basis points. 

@@ -45,7 +45,7 @@
 
 
 ### Credit Card Fraud Detection Project
-This project covers credit card fraud and is meant to look at a dataset of transactions and predict whether it is fraudulent or not. I learned alot of this from Eduonix Learning Solutions. Looking at precision for fraudulent cases lets us know the percentage of cases that they are getting correctly labeled. 'Precision' accounts for false-positives. 'Recall' accounts for false-negatives. Low numbers could mean that we are constantly calling clients asking them if they actually made the transaction which could be annoying. Our Isolation Forest method was able to produce a better result. Looking at the f1-score 26% of the time we are going to detect the fraudulent transactions.
+|This project covers credit card fraud and is meant to look at a dataset of transactions and predict whether it is fraudulent or not. I learned alot of this from Eduonix Learning Solutions. Looking at precision for fraudulent cases lets us know the percentage of cases that they are getting correctly labeled. 'Precision' accounts for false-positives. 'Recall' accounts for false-negatives. Low numbers could mean that we are constantly calling clients asking them if they actually made the transaction which could be annoying. Our Isolation Forest method was able to produce a better result. Looking at the f1-score 26% of the time we are going to detect the fraudulent transactions.|
 
 **Goal: To get better percentages.**
 

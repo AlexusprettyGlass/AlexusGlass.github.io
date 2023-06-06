@@ -35,15 +35,6 @@
 ![pandasdata](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/581d3e66-ed12-4aea-bd26-9a55f5abd2ff)
 
 
-
-![Dependentvariable](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/98a6d9a2-3cdf-4e7f-bc18-bcbd36e2aa12)
-
-
-
-![matplotlibgraph](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/83435791-b9c7-4b42-951f-b76c85df3026)
-
-
-
 ![cluster_graph](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/701bd1c5-ddf0-4fe9-bd3a-2a35ffc19827)
 
 

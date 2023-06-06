@@ -25,11 +25,26 @@
 
 ## Projects 
 ### Spotify Music Recommendation System
--
--
--
+
+|In order to find key components for a recommendation system, I carried out exploratory data analysis and exhibited data visualization techniques. I used **Python's** machine learning tools, such sci-kit learn, to create algorithms that could categorize certain variables and properties to get the best suggestion. To import and arrange the substantial Spotify data sets, I also used open-source Python packages like Pandas.|  
+
+- Checked for all the analysis with the target as 'popularity'. Used yellowbrick package to check for the Feature Correlation.
+- Performed an analysis by categorizing the data by year to comprehend how the general tone of music has changed throughout time.
+- Used the K-means clustering algorithm to divide the genres in the datasets by ten clusters based on the numerical audio features of each genres.
+
+![pandasdata](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/581d3e66-ed12-4aea-bd26-9a55f5abd2ff)
 
 
+
+![Dependentvariable](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/98a6d9a2-3cdf-4e7f-bc18-bcbd36e2aa12)
+
+
+
+![matplotlibgraph](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/83435791-b9c7-4b42-951f-b76c85df3026)
+
+
+
+![cluster_graph](https://github.com/AlexusprettyGlass/AlexusGlass.github.io/assets/135679332/701bd1c5-ddf0-4fe9-bd3a-2a35ffc19827)
 
 
 

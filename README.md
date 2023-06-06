@@ -25,6 +25,7 @@
 
 ## Projects 
 ### Spotify Music Recommendation System
+|https://github.com/AlexusprettyGlass/Music-Recommendation-System.git|
 
 |In order to find key components for a recommendation system, I carried out exploratory data analysis and exhibited data visualization techniques. I used **Python's** machine learning tools, such sci-kit learn, to create algorithms that could categorize certain variables and properties to get the best suggestion. To import and arrange the substantial Spotify data sets, I also used open-source Python packages like Pandas.|  
 

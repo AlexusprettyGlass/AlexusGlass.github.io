@@ -8,20 +8,24 @@
 - A.S., Computer Science | Georgia State University (_May 2020_)
 
 ## Work Experience
-**Data Scientist/Analyst Intern @ ABC Consultants Group**
-- Received, cleaned, and prepped data using Python, SQL, and Excel to help build marketing mix models that resulted in a lift in ROI of 8 basis points. 
-- Created predictive modeling with Python Open-source libraries by using machine learning tools in TensorFlow, SciPy, and NumPy to optimize customer experiences and other business testing.
-- Increased data science processes by 33% with better storage, integration, and reporting strategies. Worked with the product and marketing teams to identify which customer interactions maximize.
+**Data Engineer Intern @ Amazon**
+- Contributed to the architecture and implementation of next generation data and BI solutions.  Managed AWS resources including Redshift, S3, EC2, Athena and Glue.
+- Collaborated with BI Engineers, Software Engineers, and cross-functionally and delivered high quality data architecture and pipelines. 
+- Created big data solutions using EMR/Elastic Search/Redshift. Built efficient and scalable data services and integrated data systems with AWS tools and services to support a variety of customer use cases and applications.
+- Configured AWS and Azure cloud infrastructure and managed services through ETL modeling process. Designed, built, and optimized data transformations using SQL in the data modeling layer.
 
-**Data Analyst Intern @ United Parcel Service**
-- Developed dashboards and metrics using R or tableau which provided great insights and helped my intern team and senior management tackle cross-functional problems.
-- Examined large datasets and utilized Azure or Power BI to identify the company’s most cost-effective reach. Administered all risk assessment processes, including compiling qualitative and quantitative data and interpreting results.
+**Data Engineer Intern @ United Parcel Service (UPS)**
+- Optimized the company’s Data Lake and Customer Data Platform (CDP) to support data driven decision making.  Cultivated new data sources and synthesized them into current data lake, enhancing the identity graph as they related to the data.
+- Designed and developed ETL processes within CDP in support of the segmentation, analytics, and reporting needs.  Collaborated with IT on development of new ETL jobs, maintenance, and troubleshooting.
+- Brought strategy and roadmap to life through data activation processes and oversaw the delivery of high-quality data to marketing.
+- Contributed to projects involving marketing stakeholders, software vendors, IT, and data owners to specify and execute new data feeds into the CDP and/or Data Lake from internal repositories and marketing applications such as web analytics, data warehouse, and more. 
 
-**Global Data Scientist Intern @ Graphical Packaging International**
-- Evaluated the usage of different machine learning techniques for the demand forecast of different retail merchandise.
-- Developed data manipulation, analysis, modeling, and visualization on massive transaction data with Impala, Python, and R. Compiled and prepared data and reports for stake holders and functional teams.
+
+**Data Engineer Intern @ Tesla**
+- Designed data solutions, optimized data pipeline architecture, as well as developed infrastructure for data collection to support cross-functional teams in the Construction Organization.
+- Built the infrastructure required for optimal extraction, transformation, and loading (ETL) of data from a variety of data sources.
 - Tested multivariate linear & non-linear regression implementations on Hadoop cluster using R, Spark, Mlib, & MATLAB.
-- Derived actionable insights from massive data sets with minimal support. Provided input into the collection of new data sources and the refinement of existing ones to improve analysis and model development.
+- Identified, designed, and implemented internal process improvements: automated manual processes, optimized data delivery, re-designed infrastructure for greater functionality and scalability.
 
 
 

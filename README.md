@@ -8,7 +8,7 @@
 - A.S., Computer Science | Georgia State University (_May 2020_)
 
 ## Work Experience
-**Data Engineer @ ABC Consultants Group **
+**Data Engineer @ ABC Consultants Group**
 - Contributed to the architecture and implementation of next generation data and BI solutions.  Managed AWS resources including Redshift, S3, EC2, Athena and Glue.
 
 - Collaborated with BI Engineers, Software Engineers, and cross-functionally and delivered high quality data architecture and pipelines. 

@@ -6,19 +6,6 @@
 - B.S., Computer Science | Kennesaw State University (_May 2024_)
 - A.S., Computer Science | Georgia State University (_May 2022_)
 
-## Work Experience
-**Data Scientist Intern @ ABC Consultants Group**
-- Contributed to the architecture and implementation of next generation data and BI solutions.  Managed AWS resources including Redshift, S3, EC2, Athena and Glue.
-
-- Collaborated with BI Engineers, Software Engineers, and cross-functionally and delivered high quality data architecture and pipelines. 
-
-- Created big data solutions using EMR/Elastic Search/Redshift. Built efficient and scalable data services and integrated data systems with AWS tools and services to support a variety of customer use cases and applications.
-
-- Tested multivariate linear & non-linear regression implementations on Hadoop cluster using R, Spark, Mlib, & MATLAB. Derived actionable insights from massive data sets with minimal support. 
-
-- Identified, designed, and implemented internal process improvements: automated manual processes, optimized data delivery, re-designed infrastructure for greater functionality and scalability.
-
-
 
 ## Projects (All Projects Located in Repository)
 ### Spotify Music Recommendation System
